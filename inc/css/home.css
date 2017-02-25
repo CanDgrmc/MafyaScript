@@ -1,0 +1,50 @@
+.header{
+
+	background-image: url('../bg/homejpg.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position:bottom;
+	height: 300px;
+	border-bottom:1px solid rgba(60, 64, 64, 0.6);
+}
+.navbar-default li a{color:#e04848 !important;}
+body {background-color: black;}
+.sidebar{
+	font-family: 'Arsenal', sans-serif;
+	margin-top: 20px;
+	border-radius: 10px;
+	border:1px solid rgba(60, 64, 64, 0.6);
+	margin-left: -35px;
+	list-style: none;
+	display: block;
+	line-height: 25px;
+}
+.sidebar a{color:gray;}
+.sidebar a:hover{
+	color: orange;
+	text-decoration: none;}.navbar a{color:#b1b1b1;}.navbar p{color:#b1b1b1;}
+.navbar strong{color:rgb(146, 54, 54);}
+.navbar span{color:#a99494;text-shadow: 0 0 1px black; font-weight: bold}
+.navbar a{background-color: rgba(0, 0, 0, 0.52) !important;border-radius: 0 0 10px 10px;}
+.navbar-toggle{color:#b1b1b1 ;}
+.rightbar {margin-left: 100px;text-align: left;}
+.newsPost{border:1px solid #fff; padding:20px;border-radius: 10px;}
+h3{font-family: 'Arsenal', sans-serif;}
+.newsPost p{color:silver;}
+.newsPost h4{color:rgb(146, 54, 54);}
+.newsPost a{text-decoration: none; color:rgba(255, 131, 0, 0.75);}
+.postdate{color:#332e2e;}
+.orangea{text-decoration: none; color:rgba(255, 131, 0, 0.75);}
+.orangea:hover{text-decoration: none;color:rgba(255, 131, 0, 0.75);}
+.redh4{color:rgb(146, 54, 54);}
+.silverp{color:silver;}
+#pp{height: 220px;width: 170px;box-shadow: 0 0 5px #fff;}
+.infohead{color:#fff;}
+.profilinfo{color:#a5a55b;}
+.hoverred:hover{color:rgb(146, 54, 54);}
+.rozet{font-size: 30px;}
+.greenbadge{color:#11fd0f;}
+.redbadge{color:rgba(255, 1, 1, 0.87);}
+.boxes{border-top:1px solid white;}
+.box{ height: 50px;background-color: orange;margin-left: 60px;margin-top:50px; text-align: center; }
+.box i{float:none !important;}

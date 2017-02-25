@@ -1,0 +1,21 @@
+.container {
+	background-image: url('../bg/mafia.jpg');
+	background-repeat:repeat;
+   -webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	background-position:center;
+	height: 100% !important;
+}
+
+ md-input-container .md-input{
+ 	background-color: white !important;
+ }
+ 
+body{
+	background-color: black;
+}
+.md-button.md-warn{
+	background-color: rgba(244, 67, 54, 0) !important;
+}
